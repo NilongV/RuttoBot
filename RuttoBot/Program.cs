@@ -28,7 +28,7 @@ namespace RuttoBot
                 .AddSingleton(commands)
                 .BuildServiceProvider();
 
-            string botToken = "MTA5MDkyODU0MTE1MzA5OTg3OQ.GJvXBG.vuXlOzONmioylqkxzL9hcQN_eRZMtgDCYOLTwo";
+            string botToken = "******************************************";
 
             client.Log += Client_Log;
 
