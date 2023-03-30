@@ -12,7 +12,7 @@ namespace RuttoBot.modules
         [Command("ping")]
         public async Task Ping()
         {
-            await ReplyAsync("PONG");
+            await ReplyAsync("Pong");
         }
     }
 }
